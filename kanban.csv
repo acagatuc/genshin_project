@@ -6,7 +6,7 @@ Add .env and config handling,To Do,Manage environment variables securely
 Set up user authentication,To Do,Implement JWT or Firebase auth system
 Create login and registration pages,To Do,Build forms and auth logic
 Add protected routes,To Do,Ensure only logged-in users can access dashboard
-Design MongoDB schema for User, Character, Team,To Do,Create Mongoose models
+Design MongoDB schema for User/Character/Team,To Do,Create Mongoose models
 Create API routes for characters and teams,To Do,Support CRUD operations
 Implement team synergy calculator logic,To Do,Logic to show elemental reactions and synergy
 Seed database with Genshin character data,To Do,Use official/unofficial sources to preload characters
