@@ -19,7 +19,7 @@ Set up GitHub Actions for CI,To Do,Run tests automatically on push/PR
 Deploy backend to Render/Heroku,To Do,Use cloud hosting for Express server
 Deploy frontend to Vercel/Netlify,To Do,Host React app publicly
 Building MongoDB schema for Character,In Progress,Designing fields and relationships
-UI: character card with ascension info,In Progress,Showing level, materials, and constellations
+UI: character card with ascension info,In Progress,Showing level/materials/and constellations
 Implementing team synergy calculation logic,In Progress,Building logic for reaction synergy
 Initialized project repo with boilerplate,Done,Base setup with React and Express working
 Installed TailwindCSS,Done,UI framework ready for styling
