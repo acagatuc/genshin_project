@@ -11,7 +11,7 @@ Create API routes for characters and teams,To Do,Support CRUD operations
 Implement team synergy calculator logic,To Do,Logic to show elemental reactions and synergy
 Seed database with Genshin character data,To Do,Use official/unofficial sources to preload characters
 Build character tracker UI,To Do,Allow users to mark owned characters and progression
-Create reusable UI components,To Do,Buttons, modals, cards for consistent layout
+Create reusable UI components,To Do,Buttons/modals/cards for consistent layout
 Build drag-and-drop team builder,To Do,Let users build and save custom teams
 Add filters (element, weapon, region),To Do,Enhance character list usability
 Write unit tests for backend routes,To Do,Use Jest or another test framework
