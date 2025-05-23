@@ -13,7 +13,7 @@ Seed database with Genshin character data,To Do,Use official/unofficial sources 
 Build character tracker UI,To Do,Allow users to mark owned characters and progression
 Create reusable UI components,To Do,Buttons/modals/cards for consistent layout
 Build drag-and-drop team builder,To Do,Let users build and save custom teams
-Add filters (element, weapon, region),To Do,Enhance character list usability
+Add filters (element/weapon/region),To Do,Enhance character list usability
 Write unit tests for backend routes,To Do,Use Jest or another test framework
 Set up GitHub Actions for CI,To Do,Run tests automatically on push/PR
 Deploy backend to Render/Heroku,To Do,Use cloud hosting for Express server
