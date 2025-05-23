@@ -1,5 +1,5 @@
 Title,Status,Description
-Initialize MERN stack project,To Do,Set up MongoDB, Express, React, and Node.js
+Initialize MERN stack project,To Do,Set up Tech Stack
 Set up folder structure,To Do,Create clear folder structure for client and server code
 Configure ESLint and Prettier,To Do,Set up code formatting and linting tools
 Add .env and config handling,To Do,Manage environment variables securely
